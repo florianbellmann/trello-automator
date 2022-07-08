@@ -8,7 +8,7 @@
   "description": "job to automate trello workflows",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.32",
     "node-fetch": "^2.6.0",
     "winston": "^3.3.3",
